@@ -1,0 +1,16 @@
+{
+  "name": "chat-gpt-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000h\u0000a\u0000t\u0000-\u0000g\u0000p\u0000t\u0000-\u0000a\u0000p\u0000i\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "openai": "^4.25.0"
+  }
+}
